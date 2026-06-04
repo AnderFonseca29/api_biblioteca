@@ -1,0 +1,233 @@
+[2026-06-02 16:12:09,638] INFO biblioteca [POST] path=/api/v1/auth/login/ | user=anonymous | status=401
+[2026-06-02 16:14:36,701] INFO biblioteca [LOGIN] user=postgres
+[2026-06-02 16:14:36,742] INFO biblioteca [POST] path=/api/v1/auth/login/ | user=anonymous | status=200
+[2026-06-02 16:14:45,640] INFO biblioteca [LOGIN] user=postgres
+[2026-06-02 16:14:45,644] INFO biblioteca [POST] path=/api/v1/auth/login/ | user=anonymous | status=200
+[2026-06-03 15:11:56,542] INFO biblioteca [LOGIN] user=postgres
+[2026-06-03 15:11:56,555] INFO biblioteca [POST] path=/api/v1/auth/login/ | user=anonymous | status=200
+[2026-06-03 15:15:13,314] INFO biblioteca [POST] path=/api/v1/categorias/ | user=anonymous | status=401
+[2026-06-03 15:15:17,734] INFO biblioteca [POST] path=/api/v1/categorias/ | user=anonymous | status=401
+[2026-06-03 15:17:43,221] INFO biblioteca [POST] path=/api/v1/auth/login | user=anonymous | status=404
+[2026-06-03 15:18:10,452] INFO biblioteca [LOGIN] user=postgres
+[2026-06-03 15:18:10,453] INFO biblioteca [POST] path=/api/v1/auth/login/ | user=anonymous | status=200
+[2026-06-03 15:19:53,612] INFO biblioteca [POST] path=/api/v1/categorias/ | user=anonymous | status=401
+[2026-06-03 15:23:46,808] INFO biblioteca [POST] path=/api/v1/auth/logout/ | user=anonymous | status=400
+[2026-06-03 15:33:07,440] INFO biblioteca [POST] path=/api/v1/categorias/ | user=anonymous | status=201
+[2026-06-03 15:34:04,303] INFO biblioteca [PUT] path=/api/v1/categorias/1/ | user=anonymous | status=200
+[2026-06-03 15:38:15,127] INFO biblioteca [POST] path=/api/v1/categorias/ | user=anonymous | status=201
+[2026-06-03 15:38:28,831] INFO biblioteca [PUT] path=/api/v1/categorias/1/ | user=anonymous | status=200
+[2026-06-03 15:39:01,247] INFO biblioteca [PUT] path=/api/v1/categorias/1/ | user=anonymous | status=200
+[2026-06-03 15:39:54,073] INFO biblioteca [PUT] path=/api/v1/categorias/1/ | user=anonymous | status=200
+[2026-06-03 15:40:10,523] INFO biblioteca [PUT] path=/api/v1/categorias/1/ | user=anonymous | status=404
+[2026-06-03 15:41:01,695] INFO biblioteca [PUT] path=/api/v1/categorias/2/ | user=anonymous | status=200
+[2026-06-03 15:44:45,719] INFO biblioteca [DELETE] path=/api/v1/categorias/2/ | user=anonymous | status=200
+[2026-06-03 15:49:00,444] INFO biblioteca [POST] path=/api/v1/categorias/ | user=anonymous | status=401
+[2026-06-03 15:49:13,481] INFO biblioteca [POST] path=/api/v1/categorias/ | user=anonymous | status=401
+[2026-06-03 15:49:31,029] INFO biblioteca [POST] path=/api/v1/auth/refresh/ | user=anonymous | status=401
+[2026-06-03 15:49:56,051] INFO biblioteca [POST] path=/api/v1/auth/logout/ | user=anonymous | status=400
+[2026-06-03 15:49:57,106] INFO biblioteca [POST] path=/api/v1/auth/logout/ | user=anonymous | status=400
+[2026-06-03 15:49:59,918] INFO biblioteca [POST] path=/api/v1/auth/logout/ | user=anonymous | status=400
+[2026-06-03 15:50:09,479] INFO biblioteca [POST] path=/api/v1/auth/logout/ | user=anonymous | status=400
+[2026-06-03 15:50:22,797] INFO biblioteca [LOGIN] user=postgres
+[2026-06-03 15:50:22,797] INFO biblioteca [POST] path=/api/v1/auth/login/ | user=anonymous | status=200
+[2026-06-03 15:51:16,137] INFO biblioteca [POST] path=/api/v1/categorias/ | user=anonymous | status=401
+[2026-06-03 15:53:54,078] INFO biblioteca [POST] path=/api/v1/categorias/ | user=anonymous | status=401
+[2026-06-03 15:54:11,967] INFO biblioteca [POST] path=/api/v1/categorias/ | user=postgres | status=201
+[2026-06-03 15:55:15,335] INFO biblioteca [DELETE] path=/api/v1/categorias/3/ | user=anonymous | status=401
+[2026-06-03 15:55:20,696] INFO biblioteca [DELETE] path=/api/v1/categorias/3/ | user=anonymous | status=401
+[2026-06-03 15:55:46,508] INFO biblioteca [POST] path=/api/v1/categorias/ | user=anonymous | status=401
+[2026-06-03 15:55:59,437] INFO biblioteca [PUT] path=/api/v1/categorias/3/ | user=anonymous | status=401
+[2026-06-03 15:56:04,897] INFO biblioteca [DELETE] path=/api/v1/categorias/3/ | user=anonymous | status=401
+[2026-06-03 15:56:23,825] INFO biblioteca [DELETE] path=/api/v1/categorias/3/ | user=postgres | status=200
+[2026-06-03 15:58:45,550] INFO biblioteca [POST] path=/api/v1/categorias/ | user=anonymous | status=401
+[2026-06-03 15:58:55,231] INFO biblioteca [POST] path=/api/v1/categorias/ | user=anonymous | status=401
+[2026-06-03 15:59:07,053] INFO biblioteca [POST] path=/api/v1/categorias/ | user=postgres | status=201
+[2026-06-03 16:05:03,851] INFO biblioteca [POST] path=/api/v1/autores/ | user=anonymous | status=201
+[2026-06-03 16:05:16,420] INFO biblioteca [DELETE] path=/api/v1/autores/1/ | user=anonymous | status=401
+[2026-06-03 16:05:59,938] INFO biblioteca [DELETE] path=/api/v1/autores/1/ | user=postgres | status=200
+[2026-06-03 16:08:55,829] INFO biblioteca [POST] path=/api/v1/autores/ | user=anonymous | status=201
+[2026-06-03 16:09:05,923] INFO biblioteca [DELETE] path=/api/v1/autores/2/ | user=anonymous | status=200
+[2026-06-03 16:11:15,031] INFO biblioteca [POST] path=/api/v1/autores/ | user=anonymous | status=201
+[2026-06-03 16:11:26,492] INFO biblioteca [DELETE] path=/api/v1/autores/3/ | user=anonymous | status=403
+[2026-06-03 16:11:56,970] INFO biblioteca [DELETE] path=/api/v1/autores/3/ | user=postgres | status=200
+[2026-06-03 17:26:11,600] INFO biblioteca [POST] path=/api/v1/categorias/ | user=anonymous | status=201
+[2026-06-03 17:26:15,688] INFO biblioteca [POST] path=/api/v1/categorias/ | user=anonymous | status=201
+[2026-06-03 17:26:20,313] INFO biblioteca [POST] path=/api/v1/categorias/ | user=anonymous | status=201
+[2026-06-03 17:26:22,218] INFO biblioteca [POST] path=/api/v1/categorias/ | user=anonymous | status=400
+[2026-06-03 17:26:28,677] INFO biblioteca [POST] path=/api/v1/categorias/ | user=anonymous | status=201
+[2026-06-03 17:26:36,633] INFO biblioteca [POST] path=/api/v1/categorias/ | user=anonymous | status=201
+[2026-06-03 17:26:43,463] INFO biblioteca [POST] path=/api/v1/categorias/ | user=anonymous | status=201
+[2026-06-03 17:27:21,934] INFO biblioteca [POST] path=/api/v1/categorias/ | user=anonymous | status=201
+[2026-06-03 17:27:31,673] INFO biblioteca [POST] path=/api/v1/categorias/ | user=anonymous | status=201
+[2026-06-03 17:27:52,765] INFO biblioteca [POST] path=/api/v1/categorias/ | user=anonymous | status=201
+[2026-06-03 17:27:58,062] INFO biblioteca [POST] path=/api/v1/categorias/ | user=anonymous | status=201
+[2026-06-03 17:28:04,387] INFO biblioteca [POST] path=/api/v1/categorias/ | user=anonymous | status=201
+[2026-06-03 17:28:10,999] INFO biblioteca [POST] path=/api/v1/categorias/ | user=anonymous | status=201
+[2026-06-03 17:28:18,835] INFO biblioteca [POST] path=/api/v1/categorias/ | user=anonymous | status=201
+[2026-06-03 17:28:26,475] INFO biblioteca [POST] path=/api/v1/categorias/ | user=anonymous | status=201
+[2026-06-03 17:30:37,283] INFO biblioteca [POST] path=/api/v1/categorias/ | user=anonymous | status=201
+[2026-06-04 13:07:24,766] INFO biblioteca [EXPORT CSV] libros | user=anonymous | count=0
+[2026-06-04 13:07:48,964] INFO biblioteca [EXPORT CSV] libros | user=anonymous | count=0
+[2026-06-04 13:08:01,324] INFO biblioteca [EXPORT EXCEL] libros | user=anonymous | count=0
+[2026-06-04 13:11:51,309] INFO biblioteca [POST] path=/api/v1/autores/ | user=anonymous | status=201
+[2026-06-04 13:18:03,541] INFO biblioteca [POST] path=/api/v1/editoriales/ | user=anonymous | status=201
+[2026-06-04 13:18:50,544] INFO biblioteca [POST] path=/api/v1/libros/ | user=anonymous | status=201
+[2026-06-04 13:24:14,553] INFO biblioteca [DELETE] path=/api/v1/categorias/4/ | user=anonymous | status=403
+[2026-06-04 13:25:34,786] INFO biblioteca [DELETE] path=/api/v1/categorias/4/ | user=anonymous | status=403
+[2026-06-04 13:25:52,464] INFO biblioteca [DELETE] path=/api/v1/categorias/4/ | user=anonymous | status=403
+[2026-06-04 13:34:36,139] INFO biblioteca [POST] path=/api-auth/login/ | user=postgres | status=302
+[2026-06-04 13:34:54,116] INFO biblioteca [DELETE] path=/api/v1/libros/1/ | user=anonymous | status=403
+[2026-06-04 13:35:08,242] INFO biblioteca [POST] path=/api-auth/login/ | user=postgres1 | status=302
+[2026-06-04 13:35:21,659] INFO biblioteca [DELETE] path=/api/v1/libros/1/ | user=anonymous | status=403
+[2026-06-04 14:02:29,550] INFO biblioteca [POST] path=/api-auth/login/ | user=postgres | status=302
+[2026-06-04 14:04:41,739] INFO biblioteca [EXPORT] Tabla=libros | user=postgres
+[2026-06-04 14:04:53,677] INFO biblioteca [EXPORT] Tabla=libros | user=postgres
+[2026-06-04 14:05:04,738] INFO biblioteca [POST] path=/api-auth/login/ | user=postgres | status=200
+[2026-06-04 14:05:13,456] INFO biblioteca [POST] path=/api-auth/login/ | user=postgres | status=302
+[2026-06-04 14:05:23,459] INFO biblioteca [POST] path=/api-auth/login/ | user=postgres | status=302
+[2026-06-04 14:05:57,958] INFO biblioteca [ELIMINACION] Tabla=libros | ID=1 | user=postgres
+[2026-06-04 14:05:57,999] INFO biblioteca [DELETE] path=/api/v1/libros/1/ | user=postgres | status=200
+[2026-06-04 14:09:01,098] INFO biblioteca [CREACION] Tabla=libros | ID=2 | user=postgres
+[2026-06-04 14:09:01,129] INFO biblioteca [POST] path=/api/v1/libros/ | user=postgres | status=201
+[2026-06-04 14:09:16,044] INFO biblioteca [ELIMINACION] Tabla=libros | ID=2 | user=postgres
+[2026-06-04 14:09:16,071] INFO biblioteca [DELETE] path=/api/v1/libros/2/ | user=postgres | status=200
+[2026-06-04 14:40:37,680] INFO biblioteca [SOFT_DELETE] User=postgres | Model=Categoria | ID=8 | Details={'activo': False}
+[2026-06-04 14:40:37,681] INFO biblioteca SOFT_DELETE: Categoria ID=8
+[2026-06-04 14:40:37,697] INFO biblioteca [DELETE] path=/api/v1/categorias/8/ | user=postgres | status=200
+[2026-06-04 15:09:51,106] INFO biblioteca [CREACION] Tabla=autores | ID=5 | user=anonymous
+[2026-06-04 15:09:51,107] INFO biblioteca [POST] path=/api/v1/autores/ | user=anonymous | status=201
+[2026-06-04 15:12:01,663] INFO biblioteca [PUT] path=/api/v1/autores/5/ | user=anonymous | status=400
+[2026-06-04 15:12:17,553] INFO biblioteca [MODIFICACION] Tabla=autores | ID=5 | user=anonymous
+[2026-06-04 15:12:17,554] INFO biblioteca [PUT] path=/api/v1/autores/5/ | user=anonymous | status=200
+[2026-06-04 15:12:49,770] INFO biblioteca [SOFT_DELETE] User=anonymous | Model=Autor | ID=5 | Details={'activo': False}
+[2026-06-04 15:12:49,771] INFO biblioteca SOFT_DELETE: Autor ID=5
+[2026-06-04 15:12:49,771] INFO biblioteca [DELETE] path=/api/v1/autores/5/ | user=anonymous | status=200
+[2026-06-04 15:14:25,372] INFO biblioteca [CREACION] Tabla=categorias | ID=20 | user=anonymous
+[2026-06-04 15:14:25,373] INFO biblioteca [POST] path=/api/v1/categorias/ | user=anonymous | status=201
+[2026-06-04 15:15:34,755] INFO biblioteca [MODIFICACION] Tabla=categorias | ID=20 | user=anonymous
+[2026-06-04 15:15:34,756] INFO biblioteca [PUT] path=/api/v1/categorias/20/ | user=anonymous | status=200
+[2026-06-04 15:16:04,123] INFO biblioteca [SOFT_DELETE] User=anonymous | Model=Categoria | ID=20 | Details={'activo': False}
+[2026-06-04 15:16:04,124] INFO biblioteca SOFT_DELETE: Categoria ID=20
+[2026-06-04 15:16:04,125] INFO biblioteca [DELETE] path=/api/v1/categorias/20/ | user=anonymous | status=200
+[2026-06-04 15:17:49,042] INFO biblioteca [POST] path=/api/v1/devoluciones/ | user=anonymous | status=400
+[2026-06-04 15:18:18,839] INFO biblioteca [POST] path=/api/v1/devoluciones/ | user=anonymous | status=400
+[2026-06-04 15:20:05,834] INFO biblioteca [POST] path=/api/v1/devoluciones/ | user=anonymous | status=400
+[2026-06-04 15:20:18,533] INFO biblioteca [POST] path=/api/v1/devoluciones/ | user=anonymous | status=400
+[2026-06-04 15:20:45,555] INFO biblioteca [POST] path=/api/v1/devoluciones/ | user=anonymous | status=400
+[2026-06-04 15:21:29,102] INFO biblioteca [POST] path=/api/v1/devoluciones/ | user=anonymous | status=400
+[2026-06-04 15:23:04,022] INFO biblioteca [CREACION] Tabla=usuarios | ID=1 | user=anonymous
+[2026-06-04 15:23:04,023] INFO biblioteca [POST] path=/api/v1/usuarios/ | user=anonymous | status=201
+[2026-06-04 15:33:23,565] INFO biblioteca [POST] path=/api/v1/prestamos/ | user=anonymous | status=400
+[2026-06-04 15:34:02,542] INFO biblioteca [POST] path=/api/v1/prestamos/ | user=anonymous | status=400
+[2026-06-04 15:34:18,654] INFO biblioteca [POST] path=/api/v1/prestamos/ | user=anonymous | status=400
+[2026-06-04 15:35:06,233] INFO biblioteca [POST] path=/api/v1/prestamos/ | user=anonymous | status=400
+[2026-06-04 15:36:12,172] INFO biblioteca [POST] path=/api/v1/libros/ | user=anonymous | status=400
+[2026-06-04 15:37:00,102] INFO biblioteca [POST] path=/api/v1/libros/ | user=anonymous | status=400
+[2026-06-04 15:37:42,576] INFO biblioteca [CREACION] Tabla=libros | ID=3 | user=anonymous
+[2026-06-04 15:37:42,577] INFO biblioteca [POST] path=/api/v1/libros/ | user=anonymous | status=201
+[2026-06-04 15:40:42,775] INFO biblioteca [CREACION] Tabla=prestamos | ID=1 | user=anonymous
+[2026-06-04 15:40:42,776] INFO biblioteca [POST] path=/api/v1/prestamos/ | user=anonymous | status=201
+[2026-06-04 15:43:30,425] INFO biblioteca [CREACION] Tabla=devoluciones | ID=1 | user=anonymous
+[2026-06-04 15:43:30,446] INFO biblioteca [POST] path=/api/v1/devoluciones/ | user=anonymous | status=201
+[2026-06-04 15:44:42,742] INFO biblioteca [PUT] path=/api/v1/devoluciones/1/ | user=anonymous | status=400
+[2026-06-04 15:45:37,519] INFO biblioteca [MODIFICACION] Tabla=devoluciones | ID=1 | user=anonymous
+[2026-06-04 15:45:37,536] INFO biblioteca [PUT] path=/api/v1/devoluciones/1/ | user=anonymous | status=200
+[2026-06-04 15:46:15,532] INFO biblioteca [SOFT_DELETE] User=anonymous | Model=Devolucion | ID=1 | Details={'activo': False}
+[2026-06-04 15:46:15,533] INFO biblioteca SOFT_DELETE: Devolucion ID=1
+[2026-06-04 15:46:15,533] INFO biblioteca [DELETE] path=/api/v1/devoluciones/1/ | user=anonymous | status=200
+[2026-06-04 15:47:41,918] INFO biblioteca [CREACION] Tabla=editoriales | ID=2 | user=anonymous
+[2026-06-04 15:47:41,919] INFO biblioteca [POST] path=/api/v1/editoriales/ | user=anonymous | status=201
+[2026-06-04 15:48:50,479] INFO biblioteca [MODIFICACION] Tabla=editoriales | ID=2 | user=anonymous
+[2026-06-04 15:48:50,480] INFO biblioteca [PUT] path=/api/v1/editoriales/2/ | user=anonymous | status=200
+[2026-06-04 15:49:18,191] INFO biblioteca [SOFT_DELETE] User=anonymous | Model=Editorial | ID=2 | Details={'activo': False}
+[2026-06-04 15:49:18,191] INFO biblioteca SOFT_DELETE: Editorial ID=2
+[2026-06-04 15:49:18,192] INFO biblioteca [DELETE] path=/api/v1/editoriales/2/ | user=anonymous | status=200
+[2026-06-04 15:51:36,709] INFO biblioteca [CREACION] Tabla=libros | ID=4 | user=anonymous
+[2026-06-04 15:51:36,711] INFO biblioteca [POST] path=/api/v1/libros/ | user=anonymous | status=201
+[2026-06-04 15:53:39,549] INFO biblioteca [PUT] path=/api/v1/libros/3/ | user=anonymous | status=400
+[2026-06-04 15:53:51,451] INFO biblioteca [MODIFICACION] Tabla=libros | ID=3 | user=anonymous
+[2026-06-04 15:53:51,452] INFO biblioteca [PUT] path=/api/v1/libros/3/ | user=anonymous | status=200
+[2026-06-04 15:54:15,125] INFO biblioteca [SOFT_DELETE] User=anonymous | Model=Libro | ID=3 | Details={'activo': False}
+[2026-06-04 15:54:15,126] INFO biblioteca SOFT_DELETE: Libro ID=3
+[2026-06-04 15:54:15,126] INFO biblioteca [DELETE] path=/api/v1/libros/3/ | user=anonymous | status=200
+[2026-06-04 15:55:28,450] INFO biblioteca [CREACION] Tabla=autores | ID=6 | user=postgres
+[2026-06-04 15:55:28,460] INFO biblioteca [POST] path=/api/v1/autores/ | user=postgres | status=201
+[2026-06-04 15:55:47,312] INFO biblioteca [MODIFICACION] Tabla=autores | ID=6 | user=postgres
+[2026-06-04 15:55:47,327] INFO biblioteca [PUT] path=/api/v1/autores/6/ | user=postgres | status=200
+[2026-06-04 15:57:18,118] INFO biblioteca [CREACION] Tabla=multas | ID=1 | user=anonymous
+[2026-06-04 15:57:18,121] INFO biblioteca [POST] path=/api/v1/multas/ | user=anonymous | status=201
+[2026-06-04 15:58:20,510] INFO biblioteca [PUT] path=/api/v1/multas/1/ | user=anonymous | status=400
+[2026-06-04 15:59:27,742] INFO biblioteca [MODIFICACION] Tabla=multas | ID=1 | user=anonymous
+[2026-06-04 15:59:27,743] INFO biblioteca [PUT] path=/api/v1/multas/1/ | user=anonymous | status=200
+[2026-06-04 15:59:50,485] INFO biblioteca [SOFT_DELETE] User=anonymous | Model=Multa | ID=1 | Details={'activo': False}
+[2026-06-04 15:59:50,486] INFO biblioteca SOFT_DELETE: Multa ID=1
+[2026-06-04 15:59:50,486] INFO biblioteca [DELETE] path=/api/v1/multas/1/ | user=anonymous | status=200
+[2026-06-04 16:00:36,541] INFO biblioteca [POST] path=/api/v1/prestamos/ | user=anonymous | status=400
+[2026-06-04 16:01:22,378] INFO biblioteca [CREACION] Tabla=prestamos | ID=2 | user=anonymous
+[2026-06-04 16:01:22,380] INFO biblioteca [POST] path=/api/v1/prestamos/ | user=anonymous | status=201
+[2026-06-04 16:02:36,508] INFO biblioteca [MODIFICACION] Tabla=prestamos | ID=2 | user=anonymous
+[2026-06-04 16:02:36,510] INFO biblioteca [PUT] path=/api/v1/prestamos/2/ | user=anonymous | status=200
+[2026-06-04 16:03:00,300] INFO biblioteca [SOFT_DELETE] User=anonymous | Model=Prestamo | ID=2 | Details={'activo': False}
+[2026-06-04 16:03:00,301] INFO biblioteca SOFT_DELETE: Prestamo ID=2
+[2026-06-04 16:03:00,301] INFO biblioteca [DELETE] path=/api/v1/prestamos/2/ | user=anonymous | status=200
+[2026-06-04 16:04:37,151] INFO biblioteca [CREACION] Tabla=usuarios | ID=2 | user=anonymous
+[2026-06-04 16:04:37,151] INFO biblioteca [POST] path=/api/v1/usuarios/ | user=anonymous | status=201
+[2026-06-04 16:05:39,564] INFO biblioteca [MODIFICACION] Tabla=usuarios | ID=2 | user=anonymous
+[2026-06-04 16:05:39,565] INFO biblioteca [PUT] path=/api/v1/usuarios/2/ | user=anonymous | status=200
+[2026-06-04 16:05:58,952] INFO biblioteca [SOFT_DELETE] User=anonymous | Model=Usuario | ID=2 | Details={'activo': False}
+[2026-06-04 16:05:58,953] INFO biblioteca SOFT_DELETE: Usuario ID=2
+[2026-06-04 16:05:58,953] INFO biblioteca [DELETE] path=/api/v1/usuarios/2/ | user=anonymous | status=200
+[2026-06-04 16:11:13,848] INFO biblioteca [CREACION] Tabla=categorias | ID=21 | user=anonymous
+[2026-06-04 16:11:13,859] INFO biblioteca [POST] path=/api/v1/categorias/ | user=anonymous | status=201
+[2026-06-04 16:15:24,421] INFO biblioteca [SOFT_DELETE] User=anonymous | Model=Categoria | ID=8 | Details={'activo': False}
+[2026-06-04 16:15:24,422] INFO biblioteca SOFT_DELETE: Categoria ID=8
+[2026-06-04 16:15:24,430] INFO biblioteca [DELETE] path=/api/v1/categorias/8/ | user=anonymous | status=200
+[2026-06-04 16:19:47,364] INFO biblioteca [SOFT_DELETE] User=anonymous | Model=Categoria | ID=4 | Details={'activo': False}
+[2026-06-04 16:19:47,365] INFO biblioteca SOFT_DELETE: Categoria ID=4
+[2026-06-04 16:19:47,375] INFO biblioteca [DELETE] path=/api/v1/categorias/4/ | user=anonymous | status=200
+[2026-06-04 16:20:13,298] INFO biblioteca [SOFT_DELETE] User=anonymous | Model=Libro | ID=4 | Details={'activo': False}
+[2026-06-04 16:20:13,299] INFO biblioteca SOFT_DELETE: Libro ID=4
+[2026-06-04 16:20:13,336] INFO biblioteca [DELETE] path=/api/v1/libros/4/ | user=anonymous | status=200
+[2026-06-04 16:21:01,772] INFO biblioteca [POST] path=/api/v1/auth/login/ | user=anonymous | status=401
+[2026-06-04 16:21:38,986] INFO biblioteca [POST] path=/api/v1/auth/login/ | user=anonymous | status=401
+[2026-06-04 16:21:54,524] INFO biblioteca [LOGIN] user=postgres1
+[2026-06-04 16:21:54,525] INFO biblioteca [POST] path=/api/v1/auth/login/ | user=anonymous | status=200
+[2026-06-04 16:23:03,551] INFO biblioteca [SOFT_DELETE] User=anonymous | Model=Categoria | ID=19 | Details={'activo': False}
+[2026-06-04 16:23:03,552] INFO biblioteca SOFT_DELETE: Categoria ID=19
+[2026-06-04 16:23:03,553] INFO biblioteca [DELETE] path=/api/v1/categorias/19/ | user=anonymous | status=200
+[2026-06-04 16:23:49,522] INFO biblioteca [DELETE] path=/api/v1/categorias/12/ | user=anonymous | status=401
+[2026-06-04 16:24:27,325] INFO biblioteca [SOFT_DELETE] User=anonymous | Model=Autor | ID=4 | Details={'activo': False}
+[2026-06-04 16:24:27,325] INFO biblioteca SOFT_DELETE: Autor ID=4
+[2026-06-04 16:24:27,326] INFO biblioteca [DELETE] path=/api/v1/autores/4/ | user=anonymous | status=200
+[2026-06-04 16:27:09,047] INFO biblioteca [SOFT_DELETE] User=anonymous | Model=Autor | ID=4 | Details={'activo': False}
+[2026-06-04 16:27:09,047] INFO biblioteca SOFT_DELETE: Autor ID=4
+[2026-06-04 16:27:09,048] INFO biblioteca [DELETE] path=/api/v1/autores/4/ | user=anonymous | status=200
+[2026-06-04 16:28:32,851] INFO biblioteca [DELETE] path=/api/v1/categorias/12/ | user=anonymous | status=403
+[2026-06-04 16:29:29,512] INFO biblioteca [DELETE] path=/api/v1/categorias/12/ | user=anonymous | status=403
+[2026-06-04 16:30:03,119] INFO biblioteca [LOGIN] user=postgres1
+[2026-06-04 16:30:03,119] INFO biblioteca [POST] path=/api/v1/auth/login/ | user=anonymous | status=200
+[2026-06-04 16:30:41,697] INFO biblioteca [SOFT_DELETE] User=postgres1 | Model=Categoria | ID=12 | Details={'activo': False}
+[2026-06-04 16:30:41,698] INFO biblioteca SOFT_DELETE: Categoria ID=12
+[2026-06-04 16:30:41,698] INFO biblioteca [DELETE] path=/api/v1/categorias/12/ | user=postgres1 | status=200
+[2026-06-04 16:31:08,774] INFO biblioteca [DELETE] path=/api/v1/autores/6/ | user=anonymous | status=403
+[2026-06-04 16:33:02,025] INFO biblioteca [CREACION] Tabla=libros | ID=5 | user=anonymous
+[2026-06-04 16:33:02,041] INFO biblioteca [POST] path=/api/v1/libros/ | user=anonymous | status=201
+[2026-06-04 16:36:39,408] INFO biblioteca [DELETE] path=/api/v1/libros/2/ | user=anonymous | status=403
+[2026-06-04 16:36:54,341] INFO biblioteca [POST] path=/api-auth/login/ | user=postgres1 | status=302
+[2026-06-04 16:37:01,268] INFO biblioteca [SOFT_DELETE] User=postgres1 | Model=Libro | ID=2 | Details={'activo': False}
+[2026-06-04 16:37:01,268] INFO biblioteca SOFT_DELETE: Libro ID=2
+[2026-06-04 16:37:01,300] INFO biblioteca [DELETE] path=/api/v1/libros/2/ | user=postgres1 | status=200
+[2026-06-04 16:38:52,754] INFO biblioteca [SOFT_DELETE] User=postgres1 | Model=Libro | ID=2 | Details={'activo': False}
+[2026-06-04 16:38:52,755] INFO biblioteca SOFT_DELETE: Libro ID=2
+[2026-06-04 16:38:52,798] INFO biblioteca [DELETE] path=/api/v1/libros/2/ | user=postgres1 | status=200
+[2026-06-04 16:38:55,017] INFO biblioteca [SOFT_DELETE] User=postgres1 | Model=Libro | ID=2 | Details={'activo': False}
+[2026-06-04 16:38:55,018] INFO biblioteca SOFT_DELETE: Libro ID=2
+[2026-06-04 16:38:55,073] INFO biblioteca [DELETE] path=/api/v1/libros/2/ | user=postgres1 | status=200
+[2026-06-04 16:39:08,732] INFO biblioteca [SOFT_DELETE] User=postgres1 | Model=Libro | ID=5 | Details={'activo': False}
+[2026-06-04 16:39:08,733] INFO biblioteca SOFT_DELETE: Libro ID=5
+[2026-06-04 16:39:08,774] INFO biblioteca [DELETE] path=/api/v1/libros/5/ | user=postgres1 | status=200
+[2026-06-04 16:39:37,318] INFO biblioteca [MODIFICACION] Tabla=libros | ID=5 | user=postgres1
+[2026-06-04 16:39:37,339] INFO biblioteca [PUT] path=/api/v1/libros/5/ | user=postgres1 | status=200
+[2026-06-04 16:39:42,462] INFO biblioteca [SOFT_DELETE] User=postgres1 | Model=Libro | ID=5 | Details={'activo': False}
+[2026-06-04 16:39:42,462] INFO biblioteca SOFT_DELETE: Libro ID=5
+[2026-06-04 16:39:42,502] INFO biblioteca [DELETE] path=/api/v1/libros/5/ | user=postgres1 | status=200
